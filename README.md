@@ -3,6 +3,7 @@
 ## Controles
 
 ```bash
+R => Arrancar Motor
 W,A,S,D => Direcciones
 F => Luz Neblinera
 G => Paraneblinas
